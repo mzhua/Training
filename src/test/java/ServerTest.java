@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ServerTest {
     @Test
-    public void x() throws Exception{
+    public void a() throws Exception{
         Server.main(new String[]{"a","b"});
     }
 }
